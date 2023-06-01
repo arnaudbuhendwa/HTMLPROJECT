@@ -1,0 +1,92 @@
+body {
+    background-color: lightblue;
+  }
+
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav {
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: black;
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: black;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #333;
+    padding: 5px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
